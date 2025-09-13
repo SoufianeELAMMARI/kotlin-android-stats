@@ -6,7 +6,7 @@ This project demonstrates how to create engaging user experiences using **Recycl
 ---
 
 ## Dashboard 
-![Dashboard Animation](captures/exec.png)
+![Dashboard Animation](captures/exec.jpg)
 
 
 ## 🎨 Design Highlights  
